@@ -21,7 +21,7 @@
                                        placeholder="Enter Post Title" required>
                             </div>
                             <div class="control-group col-12 mt-2">
-                                <label for="body">Post Body</label>
+                                <label for="body">Post Body <span class="text-muted">(markdown supported)</span></label>
                                 <textarea id="body" class="form-control" name="body" placeholder="Enter Post Body"
                                           rows="" required></textarea>
                             </div>
